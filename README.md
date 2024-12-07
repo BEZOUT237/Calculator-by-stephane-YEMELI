@@ -16,7 +16,9 @@ skywebdev2000@gmail.com
 
 ## Screenshots
 
-![Calculator Screenshot](path/to/screenshot.png)
+![image](https://github.com/user-attachments/assets/de3b046d-43aa-4863-a8ae-343257ef8aaa)
+
+
 
 ## Table of Contents
 
